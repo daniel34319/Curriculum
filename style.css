@@ -1,0 +1,68 @@
+
+
+body {
+    width: 800px; 
+    height: 1000px;
+    margin: 50px auto;
+    padding: 30px 30px;
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+section {
+    width: 240px;
+    border: 2px solid black;
+    margin: auto auto;
+    padding: 20px 60px 480px 20px;
+    background-color: #042dfc;
+    color: white;
+    text-align:left;
+    position:absolute
+}
+
+aside {
+width: 500px;
+padding: 20px 300px;
+    position:absolute;
+    color: #042dfc;
+    text-align: center;
+    
+}
+
+#perfil {
+    width: 400px;
+padding: 140px 360px;
+    position:absolute;
+    color: #042dfc;
+    text-align: center;
+    text-align: justify;
+}
+
+#experiencia {
+    width: 400px;
+padding: 310px 360px;
+    position:absolute;
+    color: #042dfc;
+    text-align: center;
+    text-align: justify;
+}
+
+#historial {
+    width: 400px;
+    height: 200px;
+padding: 610px 50px 50px 360px;
+    position:absolute;
+    color: #042dfc;
+    text-align: center;
+    text-align: justify;
+}
+
+#boton {
+    height: 50px;
+    width: 250px;
+    padding: 550px 40px 20px 20px;
+        position:absolute;
+        color: #ffffff;
+        text-align: center;
+        text-align: left;
+    }
